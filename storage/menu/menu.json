@@ -1,0 +1,14 @@
+{
+    "Four seasons": {
+        "name": "Four seasons", "price": 4.95, "weight": "400 gr"
+    },
+    "Hawai": {
+        "name": "Hawai", "price": 5.99, "weight": "450 gr"
+    },
+    "Margarita": {
+        "name": "Margarita", "price": 3.75, "weight": "400 gr"
+    },
+    "Pepperoni": {
+        "name": "Pepperoni", "price": 6.99, "weight": "500 gr"
+    }
+}
